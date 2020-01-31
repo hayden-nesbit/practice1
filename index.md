@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Week 1 Blog</title>
+</head>
+<h1>Week 1 Thoughts</h1>
+<body>
+Here's my practice blog. This is where I'll document my journey toward becoming <br> a developer. Right now, that journey has me learning how to edit this html file on <br> the command line!
+<br>
+<br>
+Pretty cool!
+</body>
+</html>
